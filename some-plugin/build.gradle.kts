@@ -1,7 +1,6 @@
 plugins {
   `kotlin-dsl`
   `java-gradle-plugin`
-  kotlin("plugin.serialization") version "1.8.20"
 }
 
 gradlePlugin {
